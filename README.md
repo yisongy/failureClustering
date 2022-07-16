@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/471925251.svg)](https://zenodo.org/badge/latestdoi/471925251)
+
 This is a twofold repository for our paper "*A Comprehensive Empirical Investigation on Failure Clustering in Parallel Debugging*", containing both complete conlusions and a replication package.
 
 
